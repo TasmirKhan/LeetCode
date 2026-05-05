@@ -21,12 +21,14 @@ class Solution {
         return count;
     }
     public ListNode rotateRight(ListNode head, int k) {
-        if(k == 0 || head == null || getSize(head) == 1) return head;
+        int n = getSize(head);
+        if(k == 0 || head == null || n == 1) return head;
         
-        k = k%getSize(head);
+        k = k%n;
         if(k == 0 ) return head;
+
         ListNode temp = head;
-        for(int i = 1 ; i<getSize(head) - k ; i++){
+        for(int i = 1 ; i<n - k ; i++){
             temp = temp.next;
         }
         ListNode head2 = temp.next;
