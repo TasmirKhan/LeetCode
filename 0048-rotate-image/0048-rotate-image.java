@@ -7,11 +7,12 @@ class Solution {
             for(int j = 0 ; j<n ; j++){
                 dup[i][j] = matrix[n-1-j][i];
             }
-        }
+        } 
         for(int i = 0 ; i<n ; i++){
             for(int j = 0 ; j < n ; j++){
-                matrix[i][j] = dup[i][j];
+                matrix[i][j] = dup[i][j]; 
             }
         }
+        // matrix = dup; why can't we achieve through it.
     }
 }
