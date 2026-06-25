@@ -1,23 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-        s = s.trim();
-        String[] arr = s.split("\\s+");
-        int n = arr.length;
-        int low = 0 , high = n-1;
+        String[] arr = s.trim().split("\\s+");
+        int high = arr.length - 1 , low = 0;
         while(low <= high){
             String temp = arr[low];
             arr[low] = arr[high];
-            arr[high] = temp;
-            high--;
+            arr[high] = temp; 
             low++;
+            high--;
         }
-        StringBuilder sb = new StringBuilder();
-        for(String st : arr){
-            sb.append(st);
-            sb.append(" ");
-        }
-        s = sb.toString();
-        return s.trim();
 
+        return String.join(" ", arr);
     }
 }
