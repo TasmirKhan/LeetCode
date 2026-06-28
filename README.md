@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TasmirKhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -193,13 +196,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0206-reverse-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
