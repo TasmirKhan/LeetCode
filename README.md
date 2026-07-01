@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/TasmirKhan/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/TasmirKhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TasmirKhan/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TasmirKhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/TasmirKhan/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TasmirKhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TasmirKhan/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/TasmirKhan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TasmirKhan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/TasmirKhan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/TasmirKhan/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
