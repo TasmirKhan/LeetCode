@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
