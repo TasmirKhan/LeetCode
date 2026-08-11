@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -331,4 +332,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TasmirKhan/LeetCode/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
