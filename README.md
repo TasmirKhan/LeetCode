@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TasmirKhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/TasmirKhan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/TasmirKhan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/TasmirKhan/LeetCode/tree/master/0686-repeated-string-match) |
@@ -373,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
