@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quickselect
@@ -354,11 +357,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/TasmirKhan/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
