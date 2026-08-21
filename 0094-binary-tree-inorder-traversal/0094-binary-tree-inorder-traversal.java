@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    private void helper(TreeNode root , List<Integer> lst){
+    public static void helper(TreeNode root, List<Integer> lst){
         if(root == null) return ;
         helper(root.left, lst);
         lst.add(root.val);
@@ -22,8 +22,7 @@ class Solution {
     }
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> lst = new ArrayList<>();
-        Solution s = new Solution();
-        s.helper(root, lst);
+        helper(root,lst);
         return lst;
     }
 }
