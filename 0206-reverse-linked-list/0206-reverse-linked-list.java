@@ -11,13 +11,19 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode temp = head;
-        ListNode prevNode = null;
+        ArrayList<Integer> lst = new ArrayList<>();
         while(temp != null){
-            ListNode temp2 = temp.next;
-            temp.next = prevNode;
-            prevNode = temp;
-            temp = temp2;
+            lst.add(temp.val);
+            temp = temp.next;
         }
-        return prevNode;
+        Collections.reverse(lst);
+
+        temp = head;
+        int i = 0;
+        while(temp != null){
+            temp.val  = lst.get(i);
+            i++; temp = temp.next;
+        }
+        return head;
     }
 }
