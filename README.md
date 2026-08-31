@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TasmirKhan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TasmirKhan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TasmirKhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TasmirKhan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
