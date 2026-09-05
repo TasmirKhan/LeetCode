@@ -15,9 +15,11 @@
  */
 class Solution {
     static int maxSum = Integer.MIN_VALUE;
+
+    // Optimal DFS Approach 
     public static int dfs(TreeNode root){
         if(root == null) return 0;
-        int left = Math.max(0, dfs(root.left));
+        int left = Math.max(0, dfs(root.left)); // using max to avoid -ve values.
         int right = Math.max(0,dfs(root.right));
 
         maxSum = Math.max(maxSum, left+right+root.val);
@@ -26,10 +28,13 @@ class Solution {
     public int maxPathSum(TreeNode root) {
         maxSum = Integer.MIN_VALUE; //Reseting the Static values.
         dfs(root);
-        // maxGain(root);
+        // maxGain(root); Brute Approach Call (ignore it):
         return maxSum;
     }
 
+
+
+    // Brute Force Approach.
     // static void maxGain(TreeNode root){
     //     if(root == null) return ;
     //     int left = tillSum(root.left);
