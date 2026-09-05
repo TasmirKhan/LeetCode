@@ -1,37 +1,31 @@
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    int ans = 0;
+    static int diameter = 0;
 
-    public int diameterOfBinaryTree(TreeNode root) {
-        height(root);
-        return ans;
-    }
-
-    public int height(TreeNode root){
+    public static int getHeight(TreeNode root){
         if(root == null) return 0;
-        int left = height(root.left);
-        int right = height(root.right);
-        ans = Math.max(ans, left+right);
-        return 1 + Math.max(left,right);
+        int left = getHeight(root.left);
+        int right = getHeight(root.right);
+        diameter = Math.max(diameter, left+right);
+        return 1+Math.max(left,right) ;
     }
-
-    
+    public int diameterOfBinaryTree(TreeNode root) {
+        diameter = 0;
+        getHeight(root);
+        return diameter;
+    }
 }
-
-
-// class Solution {
-
-//     public static int height(TreeNode root){
-//         if(root == null) return 0;
-
-//         return 1+ Math.max(height(root.left), height(root.right));
-//     }
-
-//     public int diameterOfBinaryTree(TreeNode root) {
-//         if(root == null) return 0;
-//         int lenl =  diameterOfBinaryTree(root.left);
-//         int lenr =  diameterOfBinaryTree(root.right);
-//         int currlen = height(root.left) + height(root.right);
-//         return Math.max(currlen, Math.max(lenl, lenr));
-//     }
-// }
