@@ -22,7 +22,11 @@ class Solution {
     }
     public List<Integer> preorderTraversal(TreeNode root) {
         ArrayList<Integer> lst = new ArrayList<>();
-        helper(root,lst);
-        return lst;
+        if(root == null) return lst;
+        lst.add(root.val);
+        lst.addAll(preorderTraversal(root.left));
+        lst.addAll(preorderTraversal(root.right));
+        // helper(root,lst);
+         return lst;
     }
 }
