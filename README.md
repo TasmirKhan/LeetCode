@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TasmirKhan/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TasmirKhan/LeetCode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/TasmirKhan/LeetCode/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/1922-count-good-numbers) |
