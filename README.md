@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/TasmirKhan/LeetCode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -529,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
