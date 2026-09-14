@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TasmirKhan/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TasmirKhan/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TasmirKhan/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/TasmirKhan/LeetCode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/TasmirKhan/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TasmirKhan/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0234-palindrome-linked-list) |
