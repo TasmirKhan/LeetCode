@@ -1,20 +1,19 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = Integer.MIN_VALUE;
+        Stack<Integer> st = new Stack<>();
+        int n = prices.length - 1;
+        int res  = 0;
+        st.push(prices[n--]);
+        while(n >= 0){
+            if(prices[n] > st.peek()){
+            while(!st.isEmpty() && prices[n] > st.peek()){
+                st.pop();
+            }
+            st.push(prices[n]); }
 
-        for(int x : prices){
-            if(x < minPrice){ minPrice = x;}
-            int Profit = x - minPrice;
-            if(Profit > maxProfit){maxProfit = Profit;}
+            res = Math.max(res, st.peek() - prices[n]);
+            n--;
         }
-        // for(int i = 0 ; i<prices.length ; i++){
-        //     for(int j = i+1; j<prices.length ; j++){
-        //         int x = prices[j] - prices[i];
-        //         if(x > max){ max = x; }
-        //     }
-        // }
-        return maxProfit;
+    return res;
     }
 }
