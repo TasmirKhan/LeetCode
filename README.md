@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TasmirKhan/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/TasmirKhan/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TasmirKhan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TasmirKhan/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/TasmirKhan/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/TasmirKhan/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/TasmirKhan/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/TasmirKhan/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/TasmirKhan/LeetCode/tree/master/0089-gray-code) |
 ## Tree
 |  |
