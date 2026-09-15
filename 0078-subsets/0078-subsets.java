@@ -17,7 +17,7 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> lst = new ArrayList<>();
         List<Integer> demo = new ArrayList<>();
-        int n = nums.length;
+        
         helper(nums,0,demo, lst);
         return lst;
     }
