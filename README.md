@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TasmirKhan/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/TasmirKhan/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/TasmirKhan/LeetCode/tree/master/0476-number-complement) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
