@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TasmirKhan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TasmirKhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/TasmirKhan/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TasmirKhan/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/TasmirKhan/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/TasmirKhan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TasmirKhan/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TasmirKhan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/TasmirKhan/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TasmirKhan/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TasmirKhan/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/TasmirKhan/LeetCode/tree/master/0476-number-complement) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/TasmirKhan/LeetCode/tree/master/2235-add-two-integers) |
