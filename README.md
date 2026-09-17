@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TasmirKhan/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/TasmirKhan/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/1922-count-good-numbers) |
+| [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/TasmirKhan/LeetCode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TasmirKhan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TasmirKhan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -564,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/TasmirKhan/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/TasmirKhan/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/TasmirKhan/LeetCode/tree/master/0177-nth-highest-salary) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
