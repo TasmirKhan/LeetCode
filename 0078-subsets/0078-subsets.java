@@ -5,9 +5,6 @@ class Solution {
             lst.add(new ArrayList<Integer>(demo));
 
         for(int i = idx ; i<nums.length ; i++){
-            // if(i > idx && nums[i] == nums[i-1]){
-            //     continue ;
-            // }
         demo.add(nums[i]);
         helper(nums,i+1, demo, lst);
         demo.remove(demo.size() - 1);
