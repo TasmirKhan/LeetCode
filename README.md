@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TasmirKhan/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/TasmirKhan/LeetCode/tree/master/0476-number-complement) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/TasmirKhan/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
