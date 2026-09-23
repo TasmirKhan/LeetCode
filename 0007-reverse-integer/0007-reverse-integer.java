@@ -1,21 +1,15 @@
 class Solution {
     public int reverse(int x) {
-        if(x == 0) return 0;
-        boolean neg = false;
-        if(x < 0){
-            neg = true;
-            x = Math.abs(x);
-        }
-        while(x%10 == 0){
-            x = x/10;
-        }
-        long sum = 0;
+        boolean negative = false;
+        if(x<0){ negative = true;  x = Math.abs(x);}
+        long reversed = 0;
         while(x > 0){
-            sum  = (sum*10) + x%10;
+            reversed = (reversed*10) + (x%10);
+           if(reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE) return 0;
             x = x/10;
-            if((sum > Integer.MAX_VALUE || sum < Integer.MIN_VALUE)) return 0;
+
         }
-        if(neg) return (int)(-1*sum);
-        return (int)sum;
+        if(negative){ return -1*(int)reversed;}
+        return (int)reversed;
     }
 }
