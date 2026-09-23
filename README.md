@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TasmirKhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TasmirKhan/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TasmirKhan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0229-majority-element-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/TasmirKhan/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/TasmirKhan/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TasmirKhan/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TasmirKhan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TasmirKhan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/TasmirKhan/LeetCode/tree/master/1952-three-divisors) |
 ## Quicksort
 |  |
@@ -620,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TasmirKhan/LeetCode/tree/master/0069-sqrtx) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TasmirKhan/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
