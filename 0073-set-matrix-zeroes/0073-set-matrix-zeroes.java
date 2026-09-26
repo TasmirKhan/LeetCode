@@ -1,35 +1,63 @@
 class Solution {
-    public static void modifyMatrix(int[][] arr, int i , int j){
-        int temp = 0;
-        int row = arr.length;
-        int col = arr[0].length;
+    // Optimal Approach
+    public void setZeroes(int[][] matrix){
+    int m = matrix.length;
+    int n = matrix[0].length;
 
-        for(int x = 0 ; x < row; x++){
-            arr[x][j] = 0;
-        }
-        for(int x = 0 ; x < col ; x++){
-            arr[i][x] = 0;
-        }
-    }
-    public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        boolean[][] arr = new boolean[m][n];
+    int []row = new int[m];
+    int []col = new int[n];
 
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j<n ; j++){
-                if(matrix[i][j] == 0){
-                    arr[i][j] = true;
-                }
-            }
-        }
-
-        for(int i = 0 ; i<m ; i++){
-            for(int j = 0 ; j<n ; j++){
-                if(arr[i][j]){
-                    modifyMatrix(matrix, i, j);
-                }
+    for(int i = 0 ; i<m ; i++){
+        for(int j = 0 ; j<n ; j++){
+            if(matrix[i][j] == 0){
+                row[i] = 1;
+                col[j] = 1;
             }
         }
     }
+
+    for(int i = 0 ; i<m ; i++){
+        for(int j = 0 ; j<n ;j++){
+            if(row[i] == 1 || col[j]==1){
+                matrix[i][j] = 0;
+            }
+        }
+    }
+    }
+    
+    // Brute Approach 
+
+    // public static void modifyMatrix(int[][] arr, int i , int j){
+    //     int temp = 0;
+    //     int row = arr.length;
+    //     int col = arr[0].length;
+
+    //     for(int x = 0 ; x < row; x++){
+    //         arr[x][j] = 0;
+    //     }
+    //     for(int x = 0 ; x < col ; x++){
+    //         arr[i][x] = 0;
+    //     }
+    // }
+    // public void setZeroes(int[][] matrix) {
+    //     int m = matrix.length;
+    //     int n = matrix[0].length;
+    //     boolean[][] arr = new boolean[m][n];
+
+    //     for(int i = 0 ; i < m ; i++){
+    //         for(int j = 0 ; j<n ; j++){
+    //             if(matrix[i][j] == 0){
+    //                 arr[i][j] = true;
+    //             }
+    //         }
+    //     }
+
+    //     for(int i = 0 ; i<m ; i++){
+    //         for(int j = 0 ; j<n ; j++){
+    //             if(arr[i][j]){
+    //                 modifyMatrix(matrix, i, j);
+    //             }
+    //         }
+    //     }
+    // }
 }
