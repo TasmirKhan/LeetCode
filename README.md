@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TasmirKhan/LeetCode/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -650,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TasmirKhan/LeetCode/tree/master/0509-fibonacci-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TasmirKhan/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
