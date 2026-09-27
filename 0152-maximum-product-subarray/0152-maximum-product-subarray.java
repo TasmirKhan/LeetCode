@@ -6,15 +6,15 @@ class Solution {
 
         for(int i = 0 ; i<n ; i++){
             long tempProd = nums[i];
+            prod = Math.max(prod,tempProd);
             for(int j = i+1 ; j<n ; j++){
-                 prod = Math.max(prod,tempProd);
                 tempProd *= nums[j];
                 prod = Math.max(prod,tempProd);
             }
             
         }
 
-        prod = Math.max(prod,nums[n-1]);
+        
         return (int) prod;
     }
 }
