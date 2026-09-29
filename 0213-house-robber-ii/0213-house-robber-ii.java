@@ -1,5 +1,5 @@
 class Solution {
-    public static int HouseRob(int[] nums, int x , int n){
+    public static int houseRob(int[] nums, int x , int n){
       int prev1 = nums[x];
       int prev2 = Math.max(nums[x], nums[x+1]);
       int res = prev2;
@@ -16,8 +16,9 @@ class Solution {
         if(n== 1) return nums[0];
         if(n == 2) return Math.max(nums[1], nums[0]);
 
-        int a = HouseRob(nums,0,n-1);
-        int b = HouseRob(nums,1,n);
+        int a = houseRob(nums,0,n-1);
+        int b = houseRob(nums,1,n);
+
         return Math.max(a,b);
 
 
