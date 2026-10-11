@@ -1,18 +1,11 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
-
-        for(int num : nums){
-            if(num > max){
-                max2 = max;
-                max = num;
-            }
-            else if(num > max2){
-                max2 = num;
-            }
+       PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+       for(int num : nums){
+        pq.add(num);
         }
-
+        int max = pq.poll();
+        int max2 = pq.poll();
         return (max-1)*(max2-1);
     }
 }
