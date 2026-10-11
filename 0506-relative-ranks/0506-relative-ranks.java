@@ -1,7 +1,7 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-
-         int n = score.length;
+        // Optimal approach (9 ms)
+        int n = score.length;
         String[] res = new String[n];
         PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b)-> Integer.compare(b[0],a[0]));
         
