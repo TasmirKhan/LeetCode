@@ -1,20 +1,21 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
+
          int n = score.length;
         String[] res = new String[n];
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        HashMap<Integer, Integer> map = new HashMap();
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b)-> Integer.compare(b[0],a[0]));
+        
 
         for(int i = 0 ; i<n ; i++){
-            maxHeap.add(score[i]);
-            map.put(score[i], i);
+            maxHeap.add(new int[]{score[i],i});
         }
 
         int cnt = 0; 
         while(!maxHeap.isEmpty()){
-            int key = maxHeap.poll();
+            int[] keyValue = maxHeap.poll();
             cnt++;
-            int idx = map.get(key);
+            int key = keyValue[0];
+            int idx = keyValue[1];
             if(cnt <= 3){
                 switch(cnt){
                     case 1: 
@@ -36,6 +37,44 @@ class Solution {
             else{ res[idx] = Integer.toString(cnt); }
         }
         return res;
+
+        // HASHMAP + PRIORITY QUEUE (15 ms)
+        //  int n = score.length;
+        // String[] res = new String[n];
+        // PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        // HashMap<Integer, Integer> map = new HashMap();
+
+        // for(int i = 0 ; i<n ; i++){
+        //     maxHeap.add(score[i]);
+        //     map.put(score[i], i);
+        // }
+
+        // int cnt = 0; 
+        // while(!maxHeap.isEmpty()){
+        //     int key = maxHeap.poll();
+        //     cnt++;
+        //     int idx = map.get(key);
+        //     if(cnt <= 3){
+        //         switch(cnt){
+        //             case 1: 
+        //             res[idx] = "Gold Medal";
+        //             break;
+
+        //             case 2:
+        //             res[idx] = "Silver Medal";
+        //             break;
+
+        //             case 3:
+        //             res[idx] = "Bronze Medal";
+        //             break;
+
+        //             default:
+        //             break;
+        //         }
+        //     }
+        //     else{ res[idx] = Integer.toString(cnt); }
+        // }
+        // return res;
 
 
         // BETTER APPROACH (88 ms)
