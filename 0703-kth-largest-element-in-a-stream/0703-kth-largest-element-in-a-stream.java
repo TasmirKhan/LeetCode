@@ -1,29 +1,21 @@
 class KthLargest {
-    PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-    PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-
+    //PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+    PriorityQueue<Integer> maxHeap;
+    int k ;
     public KthLargest(int k, int[] nums) {
+        this.k = k;
+        this.maxHeap =  new PriorityQueue<>();
         for(int num : nums){
-            maxHeap.add(num);
-        }
-        int temp = k;
-        while(temp > 1){
-            minHeap.add(maxHeap.poll());
-            temp-=1;
+            add(num);
         }
     }
     
     public int add(int val) {
-        if(!maxHeap.isEmpty() && val <= maxHeap.peek()){
-            maxHeap.add(val);
-            return maxHeap.peek();
+        maxHeap.add(val);
+        if(maxHeap.size() > k){
+            maxHeap.poll();
         }
-
-        else{
-            minHeap.add(val);
-            maxHeap.add(minHeap.poll());
-            return maxHeap.peek();
-        }
+        return maxHeap.peek();
     }
 }
 
