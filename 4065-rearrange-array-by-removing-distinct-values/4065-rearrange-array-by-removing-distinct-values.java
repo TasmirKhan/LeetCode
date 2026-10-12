@@ -1,5 +1,9 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
+
+
+
+
         int[] arr = new int[101];
         int allZero = nums.length;
         List<Integer> lst = new ArrayList<>();
