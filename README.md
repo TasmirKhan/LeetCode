@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TasmirKhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/TasmirKhan/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TasmirKhan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/TasmirKhan/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bucket Sort
 |  |
 | ------- |
