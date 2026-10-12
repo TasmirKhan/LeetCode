@@ -6,13 +6,13 @@ class Solution {
             pq.add(num);
         }
 
-        while( k > 0){
-            if(!pq.isEmpty()){
-                int x = pq.poll();
-                x = (int) Math.sqrt(x);
-                if(x != 0){pq.add(x);}
-                k--;
-            }
+        while( k-- > 0){
+            pq.add((int)Math.sqrt(pq.poll()));
+                // int x = pq.poll();
+                // x = (int) Math.sqrt(x);
+                // if(x != 0){pq.add(x);}
+                // k--;
+            
         }
 
         long sum = 0;
