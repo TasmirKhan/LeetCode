@@ -1,29 +1,67 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        // Fixed Constraint approach
-        int[] arr = new int[101];
-        int allZero = nums.length;
-        
-        int[] res = new int[allZero];
-        for(int num : nums){
-            arr[num]++;
+        // Priority Queue Approach
+
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        PriorityQueue<Integer> maxHeap =
+            new PriorityQueue<>(Collections.reverseOrder());
+
+        int n = nums.length;
+
+        for (int num : nums) {
+            minHeap.offer(num);
         }
-        int a = 0;
-        while(allZero > 0){
-            for(int i = 0 ; i<101 ; i++){
-               if(arr[i] != 0){
-               res[a++] = i;
-                arr[i]--;
-                allZero--;
-               }
+
+        int[] res = new int[n];
+        int i = 0;
+
+        while (!minHeap.isEmpty()) {
+            int prev = minHeap.poll();
+            res[i++] = prev;
+
+            while (!minHeap.isEmpty()) {
+                int num = minHeap.poll();
+
+                if (num == prev) {
+                    maxHeap.offer(num);
+                } else {
+                    res[i++] = num;
+                    prev = num;
+                }
+            }
+
+            while (!maxHeap.isEmpty()) {
+                minHeap.offer(maxHeap.poll());
             }
         }
+
         return res;
+    
+
+        // 1. Fixed Constraint approach
+        // int[] arr = new int[101];
+        // int allZero = nums.length;
+        
+        // int[] res = new int[allZero];
+        // for(int num : nums){
+        //     arr[num]++;
+        // }
+        // int a = 0;
+        // while(allZero > 0){
+        //     for(int i = 0 ; i<101 ; i++){
+        //        if(arr[i] != 0){
+        //        res[a++] = i;
+        //         arr[i]--;
+        //         allZero--;
+        //        }
+        //     }
+        // }
+        // return res;
         //return lst.stream().mapToInt(Integer::intValue).toArray();
 
 
 
-        // HashMap approach
+        // 2.  HashMap approach
         // HashMap<Integer,Integer> map = new HashMap<>();
         // int max = Integer.MIN_VALUE;
         // int n = nums.length;
