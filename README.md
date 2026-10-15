@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TasmirKhan/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TasmirKhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TasmirKhan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/TasmirKhan/LeetCode/tree/master/2974-minimum-number-game) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
