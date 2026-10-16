@@ -23,8 +23,8 @@ class Solution {
                 if(grid[i][j] == 1){
                     iland++;
 
-                if(i > 0 && grid[i-1][j] == 1){ nb++; }
-                if(j > 0 && grid[i][j-1] == 1){ nb++; } 
+                    if(i > 0 && grid[i-1][j] == 1){ nb++; }
+                    if(j > 0 && grid[i][j-1] == 1){ nb++; } 
                 
               }
             }
