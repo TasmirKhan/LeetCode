@@ -29,7 +29,7 @@ class Solution {
               }
             }
         }
-        return (iland*4) - (nb*2);
+        return iland*4 - nb*2;
 
 
 
