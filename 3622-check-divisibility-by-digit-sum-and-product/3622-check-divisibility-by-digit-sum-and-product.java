@@ -10,8 +10,7 @@ class Solution {
             temp /= 10;
         }
 
-        long fsum = sum + prod;
 
-        return (n%fsum == 0);
+        return n%(sum + prod) == 0 ;  
     }
 }
