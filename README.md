@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/TasmirKhan/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/TasmirKhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/TasmirKhan/LeetCode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/TasmirKhan/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/TasmirKhan/LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/TasmirKhan/LeetCode/tree/master/0495-teemo-attacking) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
