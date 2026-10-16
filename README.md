@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/TasmirKhan/LeetCode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TasmirKhan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TasmirKhan/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TasmirKhan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TasmirKhan/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/TasmirKhan/LeetCode/tree/master/3870-count-commas-in-range) |
