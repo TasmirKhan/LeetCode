@@ -1,5 +1,5 @@
 class Solution {
-
+    // Matrix Simulation Helper method
     public static int helper(int[][] grid, int i, int j){
         int side = 4;
         int m = grid.length;
@@ -15,17 +15,38 @@ class Solution {
     }
 
     public int islandPerimeter(int[][] grid) {
-        int row = grid.length;
-        int col = grid[0].length;
-        int res = 0;
-
-        for(int i = 0 ; i< row ; i++){
-            for(int j = 0 ; j < col ; j++){
+        // Approach 1. ShortTrick using checking current index land and previous row and col (neighbour)
+        int iland = 0;
+        int nb = 0;
+        for(int i = 0 ; i < grid.length ; i++){
+            for(int j = 0 ; j < grid[0].length ; j++){
                 if(grid[i][j] == 1){
-                    res += helper(grid, i, j);
-                }
+                    iland++;
+
+                if(i > 0 && grid[i-1][j] == 1){ nb++; }
+                if(j > 0 && grid[i][j-1] == 1){ nb++; } 
+                
+              }
             }
         }
-        return res;
+        return (iland*4) - (nb*2);
+
+
+
+
+
+        // Approach 2. MATRIX SIMULATION
+        // int row = grid.length;
+        // int col = grid[0].length;
+        // int res = 0;
+
+        // for(int i = 0 ; i< row ; i++){
+        //     for(int j = 0 ; j < col ; j++){
+        //         if(grid[i][j] == 1){
+        //             res += helper(grid, i, j);
+        //         }
+        //     }
+        // }
+        // return res;
     }
 }
