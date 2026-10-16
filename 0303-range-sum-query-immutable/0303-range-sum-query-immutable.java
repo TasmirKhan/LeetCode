@@ -1,8 +1,7 @@
 class NumArray {
-    public static int[] nums;
-    public static int[] presum;
+    int[] presum;
     public NumArray(int[] nums) {
-        this.nums = nums;
+        
         presum = new int[nums.length];
 
         for(int i = 0 ; i < nums.length ; i++){
