@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/TasmirKhan/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3945-digit-frequency-score](https://github.com/TasmirKhan/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TasmirKhan/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/TasmirKhan/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TasmirKhan/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/TasmirKhan/LeetCode/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/TasmirKhan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
