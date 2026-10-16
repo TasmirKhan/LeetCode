@@ -6,6 +6,7 @@ class Solution {
         Set<Integer> st = new HashSet<>();
         for(int num : candyType){
             st.add(num);
+            if(st.size() > limit) return limit; // early exit
         }
 
         return Math.min(limit, st.size());
