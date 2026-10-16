@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TasmirKhan/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/TasmirKhan/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TasmirKhan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3959-check-good-integer](https://github.com/TasmirKhan/LeetCode/tree/master/3959-check-good-integer) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TasmirKhan/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/TasmirKhan/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/TasmirKhan/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/TasmirKhan/LeetCode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/TasmirKhan/LeetCode/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
