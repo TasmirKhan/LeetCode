@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TasmirKhan/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/TasmirKhan/LeetCode/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/TasmirKhan/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/TasmirKhan/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/TasmirKhan/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/TasmirKhan/LeetCode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/TasmirKhan/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TasmirKhan/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TasmirKhan/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/TasmirKhan/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
