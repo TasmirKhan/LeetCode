@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TasmirKhan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/TasmirKhan/LeetCode/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/TasmirKhan/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/TasmirKhan/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/TasmirKhan/LeetCode/tree/master/0575-distribute-candies) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/TasmirKhan/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/TasmirKhan/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/TasmirKhan/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/TasmirKhan/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/TasmirKhan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/TasmirKhan/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/TasmirKhan/LeetCode/tree/master/0504-base-7) |
 | [0686-repeated-string-match](https://github.com/TasmirKhan/LeetCode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
