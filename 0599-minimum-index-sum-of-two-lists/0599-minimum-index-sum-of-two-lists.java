@@ -10,7 +10,7 @@ class Solution {
         }
         int min = Integer.MAX_VALUE;
         for(int i = 0 ; i< list2.length ; i++){
-            
+            if(i > min) break;
             if(map.containsKey(list2[i])){
                 int x = map.get(list2[i]);
                 int sum = i + x;
