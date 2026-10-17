@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/TasmirKhan/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/TasmirKhan/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/TasmirKhan/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/TasmirKhan/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TasmirKhan/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TasmirKhan/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/TasmirKhan/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TasmirKhan/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TasmirKhan/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/TasmirKhan/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/TasmirKhan/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
