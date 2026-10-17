@@ -8,9 +8,10 @@ class Solution {
         for(int i = 0 ; i< list1.length ; i++){
             map.put(list1[i], i);
         }
+        
         int min = Integer.MAX_VALUE;
         for(int i = 0 ; i< list2.length ; i++){
-            if(i > min) break;
+            if(i > min) break;  
             if(map.containsKey(list2[i])){
                 int x = map.get(list2[i]);
                 int sum = i + x;
