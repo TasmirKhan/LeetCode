@@ -1,6 +1,6 @@
 class KthLargest {
-    PriorityQueue<Integer> pq ;
-    int k ;
+    private PriorityQueue<Integer> pq ;
+    private int k ;
     public KthLargest(int k, int[] nums) {
         pq = new PriorityQueue<>();
         this.k = k;
