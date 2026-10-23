@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TasmirKhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/TasmirKhan/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/TasmirKhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/TasmirKhan/LeetCode/tree/master/0896-monotonic-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/TasmirKhan/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
