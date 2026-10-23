@@ -2,7 +2,7 @@ class Solution {
     public int sortPermutation(int[] nums) {
         int n = nums.length;
         int k = -1;
-        //boolean changed = false;
+        
         for(int i = n-1 ; i >= 0 ; i--){
             if(nums[i] != i){
                 if(k == -1) k = nums[i];
