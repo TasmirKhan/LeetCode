@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/TasmirKhan/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/TasmirKhan/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TasmirKhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TasmirKhan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/TasmirKhan/LeetCode/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/TasmirKhan/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/TasmirKhan/LeetCode/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
