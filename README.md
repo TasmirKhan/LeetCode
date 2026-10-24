@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TasmirKhan/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/TasmirKhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/TasmirKhan/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TasmirKhan/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/TasmirKhan/LeetCode/tree/master/0819-most-common-word) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/TasmirKhan/LeetCode/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/TasmirKhan/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/TasmirKhan/LeetCode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/TasmirKhan/LeetCode/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
