@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TasmirKhan/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/TasmirKhan/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TasmirKhan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/TasmirKhan/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/TasmirKhan/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
+| [2326-spiral-matrix-iv](https://github.com/TasmirKhan/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/TasmirKhan/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/TasmirKhan/LeetCode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2326-spiral-matrix-iv](https://github.com/TasmirKhan/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
