@@ -14,20 +14,27 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root, List<String> lst, String sb){
-        if(root.left == null && root.right == null) {lst.add(sb + root.val); return ; }
+    public void helper(TreeNode root, List<String> lst, StringBuilder sb){
+        if(root == null ) return ;
         
-        if(root.left != null ) helper(root.left, lst, sb +(root.val)+("->"));
-        if(root.right != null) helper(root.right, lst, sb+(root.val) +("->"));
-    
-        // if(root.left != null ) helper(root.left, lst, sb.append(root.val).append("->"));
-        // if(root.right != null) helper(root.right, lst, sb.append(root.val).append("->"));
+        int len = sb.length();
+        if(len > 0) sb.append("->");
+
+        sb.append(root.val);
+        if(root.left == null && root.right == null){
+            lst.add(sb.toString());
+        }
+
+        helper(root.left, lst, sb);
+        helper(root.right, lst, sb);
+
+        sb.setLength(len);
     }
 
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> lst = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
-        helper(root, lst, "");
+        helper(root, lst, sb);
         return lst;
     }
 }
