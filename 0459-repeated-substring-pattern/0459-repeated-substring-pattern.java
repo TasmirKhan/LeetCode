@@ -1,5 +1,7 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
+
+        
         // Approach 2. Direct Approach
         String x = s + s;
         return x.substring(1,x.length()-1).contains(s);
