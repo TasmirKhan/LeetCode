@@ -1,15 +1,15 @@
 class Solution {
     public int findCenter(int[][] edges) {
         int n = edges.length+1;
-        int[] count = new int[n+1];
+        int[] connection = new int[n+1];
 
         for(int[] arr : edges){
-            count[arr[0]]++;
-            count[arr[1]]++;
+            connection[arr[0]]++;
+            connection[arr[1]]++;
         }
 
         for(int i = 1 ; i <= n ; i++){
-            if(count[i] == n -1) return i;
+            if(connection[i] == n -1) return i;
         }
 
         return -1;
