@@ -5,9 +5,10 @@ class Solution {
         int x = 0;
         for(int[] temp : matrix){
             int cnt = 0;
-            for(int i = 0 ; i < temp.length ; i++){
-                if(i != x && temp[i] == 1) cnt++;
+            for(int t : temp){
+                cnt += t;
             }
+            
             res[x] = cnt;
             x++;
         }
