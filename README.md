@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/TasmirKhan/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/TasmirKhan/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/TasmirKhan/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/TasmirKhan/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/TasmirKhan/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/TasmirKhan/LeetCode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TasmirKhan/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/TasmirKhan/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/TasmirKhan/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
