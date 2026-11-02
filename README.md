@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TasmirKhan/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/TasmirKhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/TasmirKhan/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/TasmirKhan/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TasmirKhan/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/TasmirKhan/LeetCode/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/TasmirKhan/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/TasmirKhan/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/TasmirKhan/LeetCode/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/TasmirKhan/LeetCode/tree/master/0859-buddy-strings) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/TasmirKhan/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TasmirKhan/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/TasmirKhan/LeetCode/tree/master/0686-repeated-string-match) |
+| [0748-shortest-completing-word](https://github.com/TasmirKhan/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/TasmirKhan/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TasmirKhan/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/TasmirKhan/LeetCode/tree/master/0819-most-common-word) |
