@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/TasmirKhan/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/TasmirKhan/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/TasmirKhan/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TasmirKhan/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/TasmirKhan/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TasmirKhan/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/TasmirKhan/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/TasmirKhan/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TasmirKhan/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TasmirKhan/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/TasmirKhan/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TasmirKhan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TasmirKhan/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TasmirKhan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
