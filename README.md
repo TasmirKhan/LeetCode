@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TasmirKhan/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TasmirKhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/TasmirKhan/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TasmirKhan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
