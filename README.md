@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/TasmirKhan/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/TasmirKhan/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TasmirKhan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TasmirKhan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TasmirKhan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TasmirKhan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TasmirKhan/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TasmirKhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TasmirKhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TasmirKhan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TasmirKhan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TasmirKhan/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TasmirKhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TasmirKhan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/TasmirKhan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TasmirKhan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TasmirKhan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
