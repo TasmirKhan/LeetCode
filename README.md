@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/TasmirKhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/TasmirKhan/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/TasmirKhan/LeetCode/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TasmirKhan/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/TasmirKhan/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1922-count-good-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/1922-count-good-numbers) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TasmirKhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/TasmirKhan/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/TasmirKhan/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/TasmirKhan/LeetCode/tree/master/1154-day-of-the-year) |
 | [1392-longest-happy-prefix](https://github.com/TasmirKhan/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
