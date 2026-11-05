@@ -1,11 +1,4 @@
 class Solution {
-    public static void isLeapYear(int[] arr, int year) {
-
-        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
-            arr[1] = 29;
-        }
-    }
-
     public int dayOfYear(String num) {
         
         int[] days = {31,28,31,30,31,30,31,31,30,31,30,31};
@@ -14,7 +7,9 @@ class Solution {
         int year = Integer.parseInt(num.substring(0,4));
         int res = date;
 
-        isLeapYear(days, year);
+        if (month > 2 && (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+            days[1] = 29;
+        }
 
         for(int i = 0 ; i < month - 1; i++){
             res += days[i];
