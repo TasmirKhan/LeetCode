@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TasmirKhan/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TasmirKhan/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2788-split-strings-by-separator](https://github.com/TasmirKhan/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/TasmirKhan/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TasmirKhan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/TasmirKhan/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2788-split-strings-by-separator](https://github.com/TasmirKhan/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TasmirKhan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/TasmirKhan/LeetCode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/TasmirKhan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
