@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/TasmirKhan/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/TasmirKhan/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TasmirKhan/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TasmirKhan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TasmirKhan/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TasmirKhan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/TasmirKhan/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TasmirKhan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/TasmirKhan/LeetCode/tree/master/3340-check-balanced-string) |
