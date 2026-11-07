@@ -6,10 +6,9 @@ class Solution {
         Map<Integer,Integer> map = new HashMap<>();
         for(int num : nums){
             int reqd = k-num;
-            if(map.containsKey(reqd)){
+            if(map.getOrDefault(reqd,0) > 0){
                 cnt++;
                 map.put(reqd, map.get(reqd)-1);
-                if(map.get(reqd) == 0) map.remove(reqd);
             }
             else{
             map.put(num, map.getOrDefault(num,0)+1); }
