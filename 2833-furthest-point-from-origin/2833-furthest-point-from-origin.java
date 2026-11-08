@@ -1,8 +1,8 @@
 class Solution {
     public int furthestDistanceFromOrigin(String moves) {
         int pos =  0, other = 0, n = moves.length();
-        for(int i = 0 ; i < n ; i++){
-            char c = moves.charAt(i);
+        for(char c : moves.toCharArray()){
+            
             if(c == 'L'){ pos--;}
             else if(c == 'R'){ pos++;}
             else { other++;}
