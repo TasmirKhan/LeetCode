@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TasmirKhan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/TasmirKhan/LeetCode/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/TasmirKhan/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TasmirKhan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TasmirKhan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/TasmirKhan/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/TasmirKhan/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TasmirKhan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/TasmirKhan/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/TasmirKhan/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
