@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TasmirKhan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/TasmirKhan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TasmirKhan/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2326-spiral-matrix-iv](https://github.com/TasmirKhan/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TasmirKhan/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2451-odd-string-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2451-odd-string-difference) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/TasmirKhan/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/TasmirKhan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/TasmirKhan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TasmirKhan/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/TasmirKhan/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TasmirKhan/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/TasmirKhan/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TasmirKhan/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TasmirKhan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TasmirKhan/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
