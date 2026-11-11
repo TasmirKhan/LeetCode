@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/TasmirKhan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/TasmirKhan/LeetCode/tree/master/2974-minimum-number-game) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/TasmirKhan/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/TasmirKhan/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TasmirKhan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TasmirKhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/TasmirKhan/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/TasmirKhan/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TasmirKhan/LeetCode/tree/master/3904-smallest-stable-index-ii) |
