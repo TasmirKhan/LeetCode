@@ -11,12 +11,8 @@ class Solution {
             int key = entry.getKey();
             int val = entry.getValue();
             if(val == 1) return -1;
-            else if(val == 2) cnt++;
-            else{
-                int rem = val%3;
-                cnt += val/3;
-                if(rem > 0) cnt+=1;
-            }
+
+            cnt += (val+2)/3;
         }
 
         return cnt;
