@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/TasmirKhan/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2451-odd-string-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2451-odd-string-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TasmirKhan/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TasmirKhan/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TasmirKhan/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TasmirKhan/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2451-odd-string-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2451-odd-string-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TasmirKhan/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/TasmirKhan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/TasmirKhan/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TasmirKhan/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TasmirKhan/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/TasmirKhan/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2451-odd-string-difference](https://github.com/TasmirKhan/LeetCode/tree/master/2451-odd-string-difference) |
 | [2788-split-strings-by-separator](https://github.com/TasmirKhan/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2833-furthest-point-from-origin](https://github.com/TasmirKhan/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TasmirKhan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
