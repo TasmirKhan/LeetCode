@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/TasmirKhan/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/TasmirKhan/LeetCode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/TasmirKhan/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/TasmirKhan/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/TasmirKhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TasmirKhan/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/TasmirKhan/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/TasmirKhan/LeetCode/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/TasmirKhan/LeetCode/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/TasmirKhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/TasmirKhan/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/TasmirKhan/LeetCode/tree/master/0729-my-calendar-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TasmirKhan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TasmirKhan/LeetCode/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/TasmirKhan/LeetCode/tree/master/0729-my-calendar-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TasmirKhan/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/TasmirKhan/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TasmirKhan/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/TasmirKhan/LeetCode/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/TasmirKhan/LeetCode/tree/master/0729-my-calendar-i) |
 ## Trie
 |  |
 | ------- |
