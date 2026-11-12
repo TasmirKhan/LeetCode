@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/TasmirKhan/LeetCode/tree/master/2974-minimum-number-game) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/TasmirKhan/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/TasmirKhan/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TasmirKhan/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TasmirKhan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
