@@ -1,25 +1,24 @@
 class Solution {
     public int myAtoi(String s) {
-        int i = 0 ;
-        int num = 0;
-        int sign = 1;
+        s = s.trim();
         int n = s.length();
-        while(i<n && s.charAt(i) == ' ' ){            i++;        }
-
-        if(i<n && (s.charAt(i) == '+' || s.charAt(i) == '-')){
-            if(s.charAt(i) == '-'){ sign = -1;}
-            i++;
+        long ans = 0;
+        boolean negative = false;
+        for(int i = 0 ; i < n ; i++){
+            if(s.charAt(i) == '-' && i == 0){ negative = true;}
+            else if(i == 0 && s.charAt(i) == '+'){ continue; }
+            else if(Character.isDigit(s.charAt(i))){
+                int a = s.charAt(i) - '0';
+                ans = (ans*10) + a;
+                
+        if(negative && (ans >= -(long)Integer.MIN_VALUE )){ return Integer.MIN_VALUE;} 
+        if(!negative && (ans >= (long)Integer.MAX_VALUE)){ return Integer.MAX_VALUE;}
+            }
+            else{ break; }
         }
 
-        while(i<n && Character.isDigit(s.charAt(i))){
-            int digit = s.charAt(i) - '0';
-             if (num > Integer.MAX_VALUE / 10 ||
-       (num == Integer.MAX_VALUE / 10 && digit > 7)) {
-        return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-    }
-            num  = num*10 + digit;
-            i++;
-        }
-        return sign*num;
+
+        if(negative) return (-1)*(int)ans;
+        return (int)ans;
     }
 }
