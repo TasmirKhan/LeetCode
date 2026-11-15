@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/TasmirKhan/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TasmirKhan/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TasmirKhan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TasmirKhan/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TasmirKhan/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TasmirKhan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TasmirKhan/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2747-count-zero-request-servers](https://github.com/TasmirKhan/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TasmirKhan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TasmirKhan/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/TasmirKhan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TasmirKhan/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/TasmirKhan/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TasmirKhan/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TasmirKhan/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/TasmirKhan/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TasmirKhan/LeetCode/tree/master/3904-smallest-stable-index-ii) |
