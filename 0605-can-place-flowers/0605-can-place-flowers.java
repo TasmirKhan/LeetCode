@@ -1,38 +1,33 @@
 class Solution {
-    public boolean canPlaceFlowers(int[] nums, int k) {
-        int n = nums.length;
-        if(n == 1 && nums[0] == 0 && k == 1) return true;
-        int cnt = 0;
-        int i = 0;
-       while(i < n){
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+        int x = flowerbed.length;
 
-        if(nums[i] == 1){
-            --i;
-            i+=2;
+        if(x == 1 && flowerbed[0] == 0){ n-- ; return n<=0;}
+        if(x == 1 && flowerbed[0] == 1) return n == 0;
+        if(x <= 0) return false;
+
+        if(flowerbed[0] == 0 && flowerbed[1] == 0){ 
+            flowerbed[0] = 1;
+            n--;
+        } 
+
+        for(int i = 1 ; i < x-1 ; i++){
+            if(flowerbed[i] == 0){
+                int prev  = i-1;
+                int next = i+1;
+                if(flowerbed[prev] == 0 && flowerbed[next] == 0){
+                    flowerbed[i] = 1;
+                    n--;
+                    i++;
+                }            
+            }
         }
 
-        else{
-            if(i == 0 && i+1 < n && nums[i+1] == 0){
-                cnt++;
-                nums[i] = 1;
-                i+=2;
-            }
-            else if(i == n-1 && i-1 >=0 && nums[i-1] == 0){
-                cnt++;
-                nums[i] = 1;
-                i+=2; 
-            }
-            else if(i-1 >= 0 && i+1 < n && nums[i-1] == 0 && nums[i+1] == 0){
-                cnt++;
-                nums[i] = 1;
-                i+=2;
-            }
-            else{
-                i+=1;
-            }
+        if(flowerbed[x-1] == 0 && flowerbed[x-2] == 0){
+            flowerbed[x-1] = 1;
+            n--;
         }
-       }
-       if(n-1 >=0 && n-2 >= 0 && nums[n-1] == 0 && nums[n-2] == 0) cnt++;
-       return cnt >= k;
+
+        return n <= 0;
     }
 }
