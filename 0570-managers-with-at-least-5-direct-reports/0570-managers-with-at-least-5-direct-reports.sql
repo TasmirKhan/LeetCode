@@ -1,12 +1,18 @@
 # Write your MySQL query statement below
 
-select name from employee
-where id in (
-    select managerId
-    from employee
-    group by managerId
-    having count(*) >= 5
-);
+select e.name
+from employee as e
+inner join Employee as m on e.id = m.managerId
+group by m.managerId
+having count(m.managerId) >= 5;
+
+-- select name from employee
+-- where id in (
+--     select managerId
+--     from employee
+--     group by managerId
+--     having count(*) >= 5
+-- );
 
 -- failed full join approach
 -- select e1.name
