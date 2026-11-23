@@ -10,5 +10,5 @@ with temp as(
 select id, count(id) as num
 from temp
 group by id
-order by count(id) desc
+order by num desc
 limit 1
