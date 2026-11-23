@@ -1,24 +1,34 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-
-        int n = nums.length;
-        int[] res = new int[n];
-        res[0] = nums[0];
-        int x = 1;
-        for(int i = 1 ; i < n ; i++){
-            if(nums[i] != res[x-1]){ res[x++] = nums[i];}
-            else{
-                if(x == 1){ res[x++] = nums[i];}
-                else if(res[x-1] != res[x-2]){
-                    res[x++] = nums[i];
-                }
+        // using two pointer
+        int k = 2;
+        for(int i = 2 ; i < nums.length ; i++){
+            if(nums[k-2] != nums[i]){
+                nums[k++] = nums[i];
             }
         }
-        for(int i = 0 ; i < x ; i++){
-            nums[i] = res[i];
-        }
-        return x;
+        return k;
+        
+        // using extra space O(n)
+        // int n = nums.length;
+        // int[] res = new int[n];
+        // res[0] = nums[0];
+        // int x = 1;
+        // for(int i = 1 ; i < n ; i++){
+        //     if(nums[i] != res[x-1]){ res[x++] = nums[i];}
+        //     else{
+        //         if(x == 1){ res[x++] = nums[i];}
+        //         else if(res[x-1] != res[x-2]){
+        //             res[x++] = nums[i];
+        //         }
+        //     }
+        // }
+        // for(int i = 0 ; i < x ; i++){
+        //     nums[i] = res[i];
+        // }
+        // return x;
 
+        // failed approach due to duplication of own elements
         // int j = 1;
         // for(int i = 1 ; i < nums.length ; i++){
         //     if(nums[i] != nums[i-1]){
